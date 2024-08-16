@@ -6,11 +6,14 @@ This project will include:
 -- elementary analysis in a Google Sheets, without using pivot tables, complex formulas and functions
 -- heat map and visual perception of relationships and testing of hypotheses on transformed data.
 *******************************************************
+Data taken from public domain
+https://www.kaggle.com/datasets/jjayfabor/lettuce-growth-days 
 
-
+*****************************************************
 
 About Dataset
-This comprehensive dataset provides valuable insights into the growth patterns of various plants under different environmental conditions. Collected over time, it offers a detailed view of how factors such as temperature, humidity, pH level, and Total Dissolved Solids (TDS) affect the growth stages and development of these plants.
+This comprehensive dataset provides valuable insights into the growth patterns of various plants under different environmental conditions. 
+Collected over time, it offers a detailed view of how factors such as temperature, humidity, pH level, and Total Dissolved Solids (TDS) affect the growth stages and development of these plants.
 
 Plant_ID: Identifier for each plant.
 Date: The date of the observation.
@@ -19,9 +22,83 @@ Humidity (%): The humidity level in percentage.
 TDS Value (ppm): The Total Dissolved Solids value in parts per million.
 pH Level: The pH level of the environment.
 Growth Days: The number of days since the plant started growing until fully grown.
+*******************************************************
 
-https://www.kaggle.com/datasets/jjayfabor/lettuce-growth-days
+SMART method
 
+Analyze the dataset’s column names, values, and summary statistics (mean, median, quartiles, and min/max values), as well as contemplate goals to formulate SMART questions. 
+SMART questions for the Lettuce Growth Days data could include:
+
+Specific: Is there a connection between humidity and temperature? 
+
+Measurable: How much growth is normal or expected over a one-week period?
+
+Action-oriented: If total dissolved solids are increased when growing lettuce, will it shorten the time needed for the plants to reach maturity?
+
+Relevant: Based on the dataset, how can predictions about growth be made given the conditions?
+
+Time-bound: What is the date range for this dataset? Do we need an understanding of this data for next season?
+__________________________________________________________________
+
+
+SOW  (Scope-Of-Work)
+
+
+Based on the SMART questions, create an SOW that outlines the analytics tasks.  
+
+
+Purpose: 
+Determine the most optimal temperature, humidity and fertilizer settings for short-term lettuce growing. The result will be recommendations for top 3 combinations
+
+Scope / Major Project Activities:
+What are the major parts of this project? List out the high-level steps, activities, or stages of the project, and give a brief description for each. 
+Activity
+Description
+Database transformation.
+bringing columns to the appropriate formats. Date formatting. 
+Database analysis.
+build a pivot table if necessary. establishing relationships
+
+
+report preparation
+conclusions, findings and recommendations
+
+
+This project does not include:
+Specify the things that this project isn’t responsible for doing (out of scope). 
+growth analysis of another type of greenery
+comparison analysis of lettuce growth with the previous period
+Deliverables:
+A specific list of things that your project will deliver.   
+
+Deliverable
+Description/ Details
+Top 3
+top 3 groups of three indicators (temperature, humidity, fertilizers) for a periodic growth period
+recommendations 
+recommendations for maintaining a balance of temperature and watering
+
+
+
+Schedule Overview / Major Milestones:
+The expected schedule for the project. This can be defined by milestones (e.g. “all data is cleaned and processed”), periods of time (“Week 1 / Week 2”), or other ways based on the needs of the project. 
+
+Milestone
+Expected Completion Date
+Description/Details
+processing and analysis
+1 day
+adding new columns and sheets
+search for connections and dependencies, setting formulas and calculations
+1 day
+testing hypotheses and questions using the SMART method
+results, conclusions, recommendations
+1 day
+evaluation of tested hypotheses, identification of new dependencies
+
+
+
+______________________________________________________________
 About this file
 This comprehensive dataset provides valuable insights into the growth patterns of various plants under different environmental conditions. 
 Collected over time, it offers a detailed view of how factors such as temperature, humidity, pH level, 
