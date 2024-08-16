@@ -1,3 +1,14 @@
+About the project
+
+This project will include:
+-- SMART method of formulating questions before analysis
+-- based on the questions, SWO (Scope-Of-Wor) was made (according to the Google methodology for analysts)
+-- elementary analysis in a Google Sheets, without using pivot tables, complex formulas and functions
+-- heat map and visual perception of relationships and testing of hypotheses on transformed data.
+*******************************************************
+
+
+
 About Dataset
 This comprehensive dataset provides valuable insights into the growth patterns of various plants under different environmental conditions. Collected over time, it offers a detailed view of how factors such as temperature, humidity, pH level, and Total Dissolved Solids (TDS) affect the growth stages and development of these plants.
 
