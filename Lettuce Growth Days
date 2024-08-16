@@ -8,3 +8,32 @@ Humidity (%): The humidity level in percentage.
 TDS Value (ppm): The Total Dissolved Solids value in parts per million.
 pH Level: The pH level of the environment.
 Growth Days: The number of days since the plant started growing until fully grown.
+
+https://www.kaggle.com/datasets/jjayfabor/lettuce-growth-days
+
+About this file
+This comprehensive dataset provides valuable insights into the growth patterns of various plants under different environmental conditions. 
+Collected over time, it offers a detailed view of how factors such as temperature, humidity, pH level, 
+and Total Dissolved Solids (TDS) affect the growth stages and development of these plants.
+
+Plant_ID	Date	Temperature (°C)	Humidity (%)	TDS Value (ppm)	pH Level	Growth Days
+1	8/3/2023	33.40	53.00	582.00	6.4	1
+1	8/4/2023	33.50	53.00	451.00	6.1	2
+1	8/5/2023	33.40	59.00	678.00	6.4	3
+1	8/6/2023	33.40	68.00	420.00	6.4	4
+1	8/7/2023	33.40	74.00	637.00	6.5	5
+1	8/8/2023	32.30	77.00	478.00	6.8	6
+1	8/9/2023	32.30	75.00	682.00	6	7
+1	8/10/2023	22.70	63.00	576.00	6.3	8
+1	8/11/2023	31.90	69.00	662.00	6.1	9
+1	8/12/2023	30.20	59.00	607.00	6.2	10
+1	8/13/2023	30.10	77.00	670.00	6.5	11
+1	8/14/2023	30.10	54.00	535.00	6.4	12
+1	8/15/2023	30.10	78.00	480.00	6	13
+1	8/16/2023	29.80	56.00	688.00	6.4	14
+1	8/17/2023	29.60	62.00	653.00	6.6	15
+1	8/18/2023	30.90	70.00	742.00	6.1	16
+1	8/19/2023	30.80	57.00	580.00	6.2	17
+1	8/20/2023	30.90	78.00	789.00	6.5	18
+........
+
