@@ -1,0 +1,10 @@
+About Dataset
+This comprehensive dataset provides valuable insights into the growth patterns of various plants under different environmental conditions. Collected over time, it offers a detailed view of how factors such as temperature, humidity, pH level, and Total Dissolved Solids (TDS) affect the growth stages and development of these plants.
+
+Plant_ID: Identifier for each plant.
+Date: The date of the observation.
+Temperature (°C): The temperature in degrees Celsius.
+Humidity (%): The humidity level in percentage.
+TDS Value (ppm): The Total Dissolved Solids value in parts per million.
+pH Level: The pH level of the environment.
+Growth Days: The number of days since the plant started growing until fully grown.
