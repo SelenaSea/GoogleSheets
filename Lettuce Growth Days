@@ -43,58 +43,39 @@ __________________________________________________________________
 
 SOW  (Scope-Of-Work)
 
-
 Based on the SMART questions, create an SOW that outlines the analytics tasks.  
 
-
-Purpose: 
+                Purpose: 
 Determine the most optimal temperature, humidity and fertilizer settings for short-term lettuce growing. The result will be recommendations for top 3 combinations
 
-Scope / Major Project Activities:
+                Scope / Major Project Activities:
 What are the major parts of this project? List out the high-level steps, activities, or stages of the project, and give a brief description for each. 
-Activity
-Description
-Database transformation.
-bringing columns to the appropriate formats. Date formatting. 
-Database analysis.
-build a pivot table if necessary. establishing relationships
+                           Activity / Description
+                          Database transformation.  /  bringing columns to the appropriate formats. Date formatting. 
+                          Database analysis.  / build a pivot table if necessary. establishing relationships
+                          report preparation   /   conclusions, findings and recommendations
 
 
-report preparation
-conclusions, findings and recommendations
-
-
-This project does not include:
+                This project does not include:
 Specify the things that this project isn’t responsible for doing (out of scope). 
-growth analysis of another type of greenery
-comparison analysis of lettuce growth with the previous period
-Deliverables:
+growth analysis of another type of greenery comparison analysis of lettuce growth with the previous period
+
+
+                 Deliverables:
 A specific list of things that your project will deliver.   
-
-Deliverable
-Description/ Details
-Top 3
-top 3 groups of three indicators (temperature, humidity, fertilizers) for a periodic growth period
-recommendations 
-recommendations for maintaining a balance of temperature and watering
+                            Deliverable Description/ Details
+                            Top 3  / top 3 groups of three indicators (temperature, humidity, fertilizers) for a periodic growth period
+                            recommendations  /  recommendations for maintaining a balance of temperature and watering
 
 
-
-Schedule Overview / Major Milestones:
+                Schedule Overview / Major Milestones:
 The expected schedule for the project. This can be defined by milestones (e.g. “all data is cleaned and processed”), periods of time (“Week 1 / Week 2”), or other ways based on the needs of the project. 
 
-Milestone
-Expected Completion Date
-Description/Details
-processing and analysis
-1 day
-adding new columns and sheets
-search for connections and dependencies, setting formulas and calculations
-1 day
-testing hypotheses and questions using the SMART method
-results, conclusions, recommendations
-1 day
-evaluation of tested hypotheses, identification of new dependencies
+                            Milestone                               /    Expected Completion Date   /   Description/Details
+                            processing and analysis                 /  1 day                        /  adding new columns and sheets
+                            search for connections and dependencies, 
+                            setting formulas and calculations       /  1 day                        / testing hypotheses and questions using the SMART method
+                            results, conclusions, recommendations   /  1 day                        /  evaluation of tested hypotheses, identification of new dependencies
 
 
 
